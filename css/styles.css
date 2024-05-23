@@ -1,0 +1,24 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  max-width: ;
+}
+
+.content {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 40%;
+}
+
+a {
+  text-decoration: none;
+  color: maroon;
+  font-weight: 700;
+}
